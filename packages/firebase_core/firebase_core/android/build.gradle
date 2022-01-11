@@ -21,7 +21,7 @@ def getRootProjectExtOrDefaultProperty(name) {
 }
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 29
 
     defaultConfig {
         minSdkVersion 16
